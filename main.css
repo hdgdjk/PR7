@@ -15,7 +15,7 @@ body{
     align-items: center;
     background-color: aqua;
     height: 800px;
-    background-image: url(images/COMP1.jpg);
+    background-image: url(COMP1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
